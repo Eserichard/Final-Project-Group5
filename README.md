@@ -1,5 +1,4 @@
-# Final Project Group
-Class Project
+# facemask-detector
 
 Data Download Scripts:	
 To download the images from one drive and google drive using CURL.
